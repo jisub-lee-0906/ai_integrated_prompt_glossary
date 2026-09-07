@@ -1,12 +1,12 @@
-# AI Production Lexicon
+# AI Prompt Glossary for Design, Video & Development
 
-### 240 practical terms for precise AI instructions in design, video and development
+**240 professional terms · Free Korean PDF and web reference · English quick-start examples**
 
 Know the result you want, but not the words to ask for it?
 
-This reference connects professional terminology to **actionable instructions, settings, acceptance checks and repair prompts**. Learn when to ask for kerning instead of tracking, a dolly instead of a zoom, or idempotency instead of a generic “no duplicates” requirement.
+This AI prompt glossary covers UX/UI design, graphics, 3D, video editing, motion graphics, web development and systems. It connects professional terminology to **actionable instructions, settings, acceptance checks and repair prompts**. Learn when to ask for kerning instead of tracking, a dolly instead of a zoom, or idempotency instead of a generic “no duplicates” requirement.
 
-**[English quick start](docs/QUICKSTART.en.md)** · **[Browse 240 terms](glossary/README.md)** · **[Download PDF](https://github.com/jisub-lee-0906/ai_integrated_prompt_glossary/raw/refs/heads/main/book/AI_Integrated_Prompt_Glossary_KO.pdf)** · **[한국어](README.md)**
+**[English quick start](docs/QUICKSTART.en.md)** · **[English A–Z term index](glossary/ENGLISH_INDEX.md)** · **[Download PDF](https://github.com/jisub-lee-0906/ai_integrated_prompt_glossary/raw/refs/heads/main/book/AI_Integrated_Prompt_Glossary_KO.pdf)** · **[한국어](README.md)**
 
 **Language:** The 203-page book and full web reference are primarily Korean, with English terminology and selected English prompts. This overview and the quick-start examples are in English; they are not a full English translation of the book.
 
@@ -32,6 +32,8 @@ Compare [Dolly In / Out](glossary/V1.md#v1-03), [Zoom In / Out](glossary/V1.md#v
 Every entry includes a definition, a distinction from nearby concepts, an executable prompt, settings or contracts, a verification checklist and a corrective prompt.
 
 The PDF also includes 24 comparison groups, 6 technical diagrams, 12 production briefs, 48 abbreviations, 48 official references and bilingual term indexes.
+
+[Browse by professional field](glossary/README.md) · [Common questions](docs/FAQ.md)
 
 ## Start with a real task
 

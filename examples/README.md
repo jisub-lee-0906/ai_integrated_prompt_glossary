@@ -1,6 +1,6 @@
-# 복사해서 바꾸는 실무 제작 명령서 12개
+# AI 프롬프트 실전 예시 12개: 디자인·영상·개발 제작 명령서
 
-[용어집](../glossary/README.md) · [영문 예시](../docs/QUICKSTART.en.md) · [PDF](../book/AI_Integrated_Prompt_Glossary_KO.pdf)
+[용어집](../glossary/README.md) · [English prompt examples](../docs/QUICKSTART.en.md) · [프롬프트 용어 FAQ](../docs/FAQ.md) · [PDF](../book/AI_Integrated_Prompt_Glossary_KO.pdf)
 
 프로젝트 이름·대상·수치·출력 형식을 실제 조건으로 바꾸세요. 생성 명령을 전달한 뒤에는 명세와 검수 기준으로 실제 파일을 확인합니다.
 

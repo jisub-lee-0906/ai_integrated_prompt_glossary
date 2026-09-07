@@ -1,8 +1,8 @@
-# From vague requests to precise AI instructions
+# AI Prompt Examples for Design, Video & Development
 
 **12 practical examples for design, video and development.**
 
-[English overview](../README.en.md) · [Full term reference](../glossary/README.md) · [Korean production briefs](../examples/README.md)
+[English overview](../README.en.md) · [English A–Z glossary](../glossary/ENGLISH_INDEX.md) · [Reference by field](../glossary/README.md) · [Korean production briefs](../examples/README.md)
 
 Use **subject + action + constraints + settings + deliverables + acceptance checks**. Replace the project assumptions and sample numbers before using an example. For image and video tools, use the visual instruction for generation and apply file-format or timing requirements in the relevant export or editing tool. For coding tasks, specify your existing stack and ask for actual execution evidence.
 

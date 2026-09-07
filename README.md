@@ -1,12 +1,12 @@
-# AI 실무 프롬프트 용어집
+# AI 프롬프트 용어집: 디자인·영상·개발 실무 용어 240개
 
-### AI Production Lexicon · Design, Video & Development
+**AI Prompt Glossary · Design, Video & Development**
 
 **“원하는 건 알겠는데, AI에게 뭐라고 지시해야 할까?”**
 
-디자인·영상·개발에서 쓰는 **240개 실무 용어**를 **정의 → 구체적인 명령 → 결과 검수 → 수정 요청**으로 연결한 한국어 사전입니다. 203쪽 PDF와 웹 열람본을 무료로 제공합니다.
+UX/UI 디자인, 그래픽·3D, 영상 편집·모션 그래픽, 웹·앱 개발에서 쓰는 **240개 실무 용어**를 정리한 한국어 AI 프롬프트 용어 사전입니다. **정의 → 구체적인 명령 → 결과 검수 → 수정 요청**으로 연결하며, 무료 열람용 203쪽 PDF와 웹 용어집을 제공합니다.
 
-**[지금 웹에서 읽기](glossary/README.md)** · **[PDF 열람](book/AI_Integrated_Prompt_Glossary_KO.pdf)** · **[PDF 바로 다운로드](https://github.com/jisub-lee-0906/ai_integrated_prompt_glossary/raw/refs/heads/main/book/AI_Integrated_Prompt_Glossary_KO.pdf)** · **[English](README.en.md)**
+**[실무 용어 240개 웹에서 읽기](glossary/README.md)** · **[무료 PDF 용어집 열람](book/AI_Integrated_Prompt_Glossary_KO.pdf)** · **[PDF 바로 다운로드](https://github.com/jisub-lee-0906/ai_integrated_prompt_glossary/raw/refs/heads/main/book/AI_Integrated_Prompt_Glossary_KO.pdf)** · **[English](README.en.md)**
 
 > A practical vocabulary reference for precise AI instructions in UX/UI, graphics, 3D, video, motion design, web development and systems. Korean reference with English terminology and a separate [English quick-start guide](docs/QUICKSTART.en.md).
 
@@ -31,7 +31,7 @@
 - **개발·시스템:** [API 계약](glossary/S2.md) · [데이터베이스](glossary/S3.md) · [동시성·장애 처리](glossary/S7.md) · [빌드·배포](glossary/S8.md)
 - **완성된 요청문부터 보기:** [실무 제작 명령서 12개](examples/README.md) · [English copy-ready examples](docs/QUICKSTART.en.md)
 
-**[240개 전체 용어 보기](glossary/README.md)** · [PDF 상세 목차와 쪽수](CONTENTS.md)
+**[240개 전체 용어 보기](glossary/README.md)** · [영문 용어 A–Z 색인](glossary/ENGLISH_INDEX.md) · [PDF 상세 목차와 쪽수](CONTENTS.md) · [자주 묻는 질문](docs/FAQ.md)
 
 ## 용어 하나에 담긴 것
 
