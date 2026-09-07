@@ -1,0 +1,34 @@
+name: "새 용어 제안 / Suggest a term"
+description: "AI 작업 지시에 필요한 실무 용어를 제안해 주세요."
+title: "[Term] "
+body:
+  - type: input
+    id: term
+    attributes:
+      label: "한글·영문 용어 / Term"
+    validations:
+      required: true
+  - type: dropdown
+    id: field
+    attributes:
+      label: "분야 / Field"
+      options:
+        - "디자인·비주얼 / Design"
+        - "영상·모션·오디오 / Video and motion"
+        - "개발·시스템 / Development"
+        - "제작 인계·AI 제어 / Handoff and AI controls"
+    validations:
+      required: true
+  - type: textarea
+    id: use_case
+    attributes:
+      label: "실제 필요한 상황 / Practical use case"
+      description: "어떤 작업을 지시할 때 필요하며 기존 용어와 어떻게 다른가요?"
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: "명령 예시·참고자료 / Example and references"
+    validations:
+      required: false

@@ -1,0 +1,25 @@
+name: "오류 제보 / Correction"
+description: "용어·예시·링크의 오류를 알려 주세요. Report an inaccurate term, example, or link."
+title: "[Correction] "
+body:
+  - type: input
+    id: location
+    attributes:
+      label: "항목·위치 / Entry or location"
+      placeholder: "S2-06, PDF 103쪽, glossary/S2.md"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: "문제와 수정 제안 / Problem and proposed correction"
+      description: "현재 설명에서 무엇이 틀렸고 어떻게 바꾸면 좋을까요?"
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: "근거 / Evidence"
+      description: "공식 문서 링크, 도구·버전, 재현 방법이 있으면 적어 주세요."
+    validations:
+      required: false

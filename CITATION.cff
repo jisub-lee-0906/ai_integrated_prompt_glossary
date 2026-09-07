@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "이 자료를 인용할 때 아래 책 정보를 사용해 주세요. Written with AI assistance."
+title: "AI 생성 및 협업을 위한 디자인 · 영상 · 개발 통합 프롬프트 용어집"
+authors:
+  - family-names: "이"
+    given-names: "지섭"
+    email: "jisub0906@gmail.com"
+url: "https://github.com/jisub-lee-0906/ai_integrated_prompt_glossary"
+preferred-citation:
+  type: book
+  title: "AI 생성 및 협업을 위한 디자인 · 영상 · 개발 통합 프롬프트 용어집"
+  authors:
+    - family-names: "이"
+      given-names: "지섭"
+  year: 2026
+  edition: "실무 확장판, 2026.09"
+  url: "https://github.com/jisub-lee-0906/ai_integrated_prompt_glossary"
